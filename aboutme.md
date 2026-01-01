@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: She who thinks too much and does too little
+subtitle: thinks too much and does too little
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi hi!! I'm going by the name of 'A' on here because i really like the letter A, along with many other reasons I dont care to share!
+Here's some fun facts about me
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I really like Greek Mythology, Moray eels and reading!!
+- I have a really bad habit of collecting notebooks and never using them...
+- I have 2 cats, they shed alot but they're really cute trust!!
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now... so maybe ask me later!
