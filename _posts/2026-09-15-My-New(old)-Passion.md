@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My New Inspiration
+title: My New(old) Passion
 subtitle: just a 'lil update
 tags: [post, A, school&study]
 author: A
