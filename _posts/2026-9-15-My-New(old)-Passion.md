@@ -2,8 +2,7 @@
 layout: post
 title: My New(old) Passion
 subtitle: just a 'lil update
-date: 2026-9-15
-tags: [post, A, school&study]
+tags: [post, A, study]
 author: A
 ---
 
